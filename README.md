@@ -4,4 +4,4 @@ This example demonstrates how you can use the new AWS HTTP API (Announced Dec. 2
 
 Depending on your implementation and the tool, the `audience` could be something like an Auth0 API ID or a Cognito App Client ID.
 
-For more details you can review the blog post [here](https://serverless.com/blog/?????).
+For more details you can review the blog post [here](https://serverless.com/blog/serverless-auth-with-aws-http-apis).
